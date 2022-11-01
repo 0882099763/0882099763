@@ -1,5 +1,11 @@
 {
-	"ip":"servercoolzin.aternos.me",
-	"port": "44609",
-	"name": "som_ey"
+     "ip": "survivalkhmer.aternos.me",
+     "port": "19467",
+     "name": "ogg",
+     "auto-reconnect": "true",
+     "comment": "If True Then Bot Will Skip Night",
+     "login-enabled": "true",
+     "comment": "If True Then Bot Will Login/Register",
+     "register-cmd": "/register eee eee",
+     "login-cmd": "/login eee"
 }
