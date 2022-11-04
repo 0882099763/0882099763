@@ -1,11 +1,5 @@
 {
-     "ip": "servercoolzin.Aternos.me",
-     "port": "44609",
-     "name": "ogg",
-     "auto-reconnect": "true",
-     "comment": "If True Then Bot Will Skip Night",
-     "login-enabled": "true",
-     "comment": "If True Then Bot Will Login/Register",
-     "register-cmd": "/register aeee566 aeee566",
-     "login-cmd": "/login aeee566"
+    "ip": "nully.Aternos.me",
+    "port": "56440",
+    "name": "AmNotcool",
 }
