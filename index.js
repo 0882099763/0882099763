@@ -1,3 +1,6 @@
+const express = require('express')();
+express.get('/', (req, res) => res.send('<!-- auto-pinging 525316393768452098 -->'))
+express.listen(3000);
 const mineflayer = require('mineflayer')
 const fs = require('fs');
 let rawdata = fs.readFileSync('config.json');
